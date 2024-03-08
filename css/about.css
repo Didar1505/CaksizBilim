@@ -26,6 +26,7 @@
     background: var(--color-bg1);
     border-radius: 1rem;
     transition: var(--transition);
+    user-select: none;
 }
 .achievement_card:hover
 {
